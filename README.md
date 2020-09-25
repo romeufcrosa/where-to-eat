@@ -1,5 +1,2 @@
 # where-to-eat
-[![Codefresh build status]( https://g.codefresh.io/api/badges/pipeline/romeufcrosa_marketplace/romeufcrosa%2Fwhere-to-eat%2Fwhere-to-eat?branch=develop&key=eyJhbGciOiJIUzI1NiJ9.NWMxMDM4YTM0YjEyNzU1NWNjZTJkNDg1.w8RvNgfLdMI7X2LR3C3b8ZevrKQwAraAwN2jnujyyOc&type=cf-1)](https://g.codefresh.io/pipelines/where-to-eat/builds?repoOwner=romeufcrosa&repoName=where-to-eat&serviceName=romeufcrosa%2Fwhere-to-eat&filter=trigger:build~Build;branch:develop;pipeline:5c103d106da223e8816c381a~where-to-eat)
-[![CircleCI](https://circleci.com/gh/romeufcrosa/where-to-eat.svg?style=svg)](https://circleci.com/gh/romeufcrosa/where-to-eat)
-[![codecov](https://codecov.io/gh/romeufcrosa/where-to-eat/branch/develop/graph/badge.svg)](https://codecov.io/gh/romeufcrosa/where-to-eat)
 [![GoDoc](https://godoc.org/github.com/romeufcrosa/where-to-eat?status.svg)](https://godoc.org/github.com/romeufcrosa/where-to-eat)
