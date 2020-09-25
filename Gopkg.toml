@@ -1,0 +1,24 @@
+[metadata.heroku]
+  root-package = "github.com/romeufcrosa/where-to-eat"
+  go-version = "1.10.3"
+  install = [ "./..." ]
+
+[[constraint]]
+  name = "github.com/julienschmidt/httprouter"
+  version = "1.1.0"
+
+[[constraint]]
+  branch = "master"
+  name = "googlemaps.github.io/maps"
+
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  name = "github.com/bugsnag/bugsnag-go"
+  version = "1.3.1"
+
+[[constraint]]
+  name = "github.com/onsi/gomega"
+  version = "1.4.3"
